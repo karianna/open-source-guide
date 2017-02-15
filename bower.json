@@ -9,6 +9,6 @@
   "license": "CC-BY",
   "homepage": "https://github.com/github/open-source-guide",
   "dependencies": {
-    "anchor-js": "^3.2.1"
+    "anchor-js": "^3.2.2"
   }
 }
